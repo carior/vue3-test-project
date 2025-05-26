@@ -1,7 +1,7 @@
 <template>
   <div class="about">
      lry个人主页
-     <el-button type="primary">Primary</el-button>
+     <a-button type="primary">Primary</a-button>
   </div>
 </template>
 <script>

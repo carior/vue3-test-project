@@ -1,8 +1,8 @@
 <template>
   <div class="about">
-      <el-button type="primary">我是管理员主页</el-button>
-      <el-button type="primary" @click="totiao('pc')">PC</el-button>
-      <el-button type="primary" @click="totiao('admin')">admin</el-button>
+      <a-button type="primary">我是管理员主页</a-button>
+      <a-button type="primary" @click="totiao('pc')">PC</a-button>
+      <a-button type="primary" @click="totiao('admin')">admin</a-button>
   </div>
 </template>
 <script setup>
